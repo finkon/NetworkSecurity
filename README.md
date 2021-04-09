@@ -31,4 +31,4 @@ Infrastructure as a service (IAAS)
 Plastform as a service (PAAS)
 Software as a service (SAAS)
 Compliance, Legislation, Regulation and Standards
-![image](https://user-images.githubusercontent.com/72517674/114236210-31c4b680-9979-11eb-844b-714ed7d29e40.png)
+
