@@ -12,9 +12,7 @@ Build HTML page to include a Title ‘Network Security’
 Include header and footer from portfolio website
 Add in report text to the body 
 
-
-
-
+__________________________________________________________________________________________________________________________________________________________
 
 Immersive Lab tasks –
 
